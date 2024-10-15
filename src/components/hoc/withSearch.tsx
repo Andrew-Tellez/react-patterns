@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { filter } from "./utils";
 
 interface WithSearchProps {
   query: string;
