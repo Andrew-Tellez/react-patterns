@@ -1,6 +1,7 @@
 # react patterns
 ## 1. Higher Order Components
 - A higher-order component is a function that takes a component and returns a new component.
+- [x] in **src/components/hoc** folder, there is an example of higher order component.
 
 ## 2. compound components
 - Compound components are components that are meant to be used together. They are a group of components that are used together to create a single piece of UI.
