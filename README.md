@@ -9,6 +9,5 @@
 - Container components are responsible for managing state and fetching data. Presentational components are responsible for displaying data and receiving user input.
 - [x] in **src/components/container-presentation** folder, there is an example of container/presentational components.
 
-
 ## 4. provider pattern
 - The provider pattern is a way to pass data down to components without having to pass props through every level of the component tree.
